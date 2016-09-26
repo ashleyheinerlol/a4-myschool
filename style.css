@@ -1,0 +1,71 @@
+
+#bannerPic{
+	float: right;
+	margin: 15px;
+	border-style:inset;
+	border-width: 8px;
+	border-color: #9C27B0;
+	padding: 3px;
+	box-shadow: 10px 10px 15px #e6b3ff;
+	
+}
+
+.floatclear{
+	clear:both;
+	
+	
+}
+
+#bannerWords{
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 25px;
+	
+}
+
+
+
+body{
+	background-color:#FFE7E7;
+	
+}
+
+
+h1{
+	text-align:left;
+	color:#9C27B0;
+	text-shadow: 2px 2px 5px #ff33ff;
+	
+}
+
+h2{
+	color:#3F51B5;
+	
+}
+
+#mySlides{
+	border-style:inset;
+	border-width: 8px;
+	border-color: #9C27B0;
+	padding: 3px;
+	box-shadow: 10px 10px 15px #e6b3ff;
+	
+}
+
+#aboutme{
+	background-color:#87CEEB;
+	color: #3F51B5;
+	font-size: 1.5em;
+	padding: 14px 40px;
+	border-radius: 8px;
+	
+	
+	
+}
+
+#aboutme:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,225,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+
